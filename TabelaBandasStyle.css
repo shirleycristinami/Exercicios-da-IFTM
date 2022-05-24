@@ -1,0 +1,31 @@
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 850px;
+    height: 50px;
+    text-align: center;
+    border-collapse: separate;
+}
+.titulo{
+    text-align: center;
+    color: rgb(5, 66, 46);
+    font-style: italic;
+    font-size: xx-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.capadisco{
+    width: 350px;
+    height: 350px;
+}
+.nomebanda{
+    text-align: center;
+    color: rgba(27, 3, 10, 0.76);
+    text-shadow: 2px 2px rgb(238, 156, 156);
+    font-size: xx-large;
+}
+.descricao{
+    text-align: center;
+    text-justify: auto;
+}
+ 
